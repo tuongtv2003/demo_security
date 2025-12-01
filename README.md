@@ -6,8 +6,6 @@ Tạo database theo yêu cầu dự án:
 
     CREATE TABLE demo;
 
-(Nếu project dùng JPA/Hibernate thì bảng sẽ tự sinh sau khi chạy ứng dụng.)
-
 ---
 
 ## 2. Cấu Hình & Chạy Project
